@@ -1,0 +1,24 @@
+
+{
+  "name": "Sistem HMA Cloud - Legal & Finance Pro",
+  "short_name": "HMA Cloud",
+  "description": "Sistem Pengurusan Firma Guaman Hairi Mustafa Associates",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#FFD700",
+  "icons": [
+    {
+      "src": "https://arleta.site/interactivelink/2510/logo.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "https://arleta.site/interactivelink/2510/logo.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
